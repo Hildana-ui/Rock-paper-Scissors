@@ -1,0 +1,15 @@
+body {
+   margin: 5px;
+   gap: 8px;
+}
+
+button {
+    background: turquoise;
+    border-radius: 6px;
+    border-width: 0px;
+    padding: 8px;
+}
+
+div {
+    margin-bottom: 5px;
+}
